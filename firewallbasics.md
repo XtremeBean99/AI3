@@ -1,5 +1,7 @@
 # Firewall Basics
 
+*please see attatched packet tracer file if you are confused at any point*
+
 A firewall is a crucial network security device that acts as a barrier between a trusted internal network and untrusted external networks, such as the internet. It monitors and controls incoming and outgoing network traffic based on predefined security rules, aiming to prevent unauthorized access, data breaches, and malicious activities. Firewalls can be implemented in hardware, software, or virtual form and play a pivotal role in enforcing network security policies, filtering traffic, and protecting sensitive information from cyber threats.
 
 ![](images/topology.png)
